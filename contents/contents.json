@@ -1,0 +1,19 @@
+{
+    "themes": [
+        {
+            "name": "New Theme",
+            "desc": "The new theme",
+            "dirName": "New Theme",
+            "author": "Abu Ra1han",
+            "authorUrl": "https://github.com/abura1han",
+            "activeTheme": true
+        },
+        {
+            "name": "New Theme last",
+            "desc": "The new theme",
+            "dirName": "New Theme",
+            "activeTheme": true
+        }
+    ],
+    "plugins": []
+}
